@@ -1,0 +1,2 @@
+$ cd sherlock/sherlock
+$ python3 -m unittest tests.all --verbose
